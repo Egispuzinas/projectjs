@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    vertical-align: top;
+}
+.container .inputs{
+    margin-bottom: 20px;
+}
+.racers{
+    width: 24%;
+    height: 90vh;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+}
+.track{
+    display: inline-block;
+    width: 75%;
+    height: 90vh;
+    border: 1px solid black;
+    vertical-align: top;
+}
+body{
+    background-color: rgb(139, 139, 139);
+}
+ul{
+    text-decoration: none;
+    list-style: none;
+}
+li{
+    margin-top: 30px;
+}
+.car{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    margin-top:50px;
+}
